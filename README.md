@@ -29,5 +29,5 @@
 ---
 ## 🌍 Onde me encontrar?
 📌 [GitHub][((https://github.com/xLorenzoSCx))](https://www.linkedin.com/in/lorenzo-clarindo-022a72324/) → Confira meus códigos!  
-📌 [LinkedIn][((https://www.linkedin.com/in/lorenzo-clarindo-022a72324/)) ](https://github.com/xLorenzoSCx)→ Vamos conectar?  
+📌 [LinkedIn][((https://www.linkedin.com/in/lorenzo-clarindo-022a72324/)) ](https://github.com/xLorenzoSCx).
 🚀 Sempre pronto para novas oportunidades e desafios! Vamos construir algo incrível juntos? 😃
