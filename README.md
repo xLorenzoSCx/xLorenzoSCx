@@ -28,6 +28,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xLorenzoSCx&layout=compact&theme=radical)
 ---
 ## 🌍 Onde me encontrar?
-📌 [GitHub]((https://github.com/xLorenzoSCx)) → Confira meus códigos!  
-📌 [LinkedIn]((https://www.linkedin.com/in/lorenzo-clarindo-022a72324/)) → Vamos conectar?  
+📌 [GitHub][((https://github.com/xLorenzoSCx))](https://www.linkedin.com/in/lorenzo-clarindo-022a72324/) → Confira meus códigos!  
+📌 [LinkedIn][((https://www.linkedin.com/in/lorenzo-clarindo-022a72324/)) ](https://github.com/xLorenzoSCx)→ Vamos conectar?  
 🚀 Sempre pronto para novas oportunidades e desafios! Vamos construir algo incrível juntos? 😃
