@@ -24,8 +24,8 @@
 
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xLorenzoSCx&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xLorenzoSCx&layout=compact&theme=radical)
 ---
 ## 🌍 Onde me encontrar?
 📌 [GitHub]((https://github.com/xLorenzoSCx)) → Confira meus códigos!  
